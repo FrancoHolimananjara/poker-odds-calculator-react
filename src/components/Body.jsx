@@ -126,7 +126,7 @@ export default function Body({ deck }) {
                 type="text"
                 className="p-2 rounded-md mt-1 w-[250px] bg-slate-200 dark:bg-gray-900"
                 value={theBoardSlice}
-                placeholder="ex 3s,6s,7h"
+                placeholder="ex 3c,6s,7s"
                 onChange={handleSetBoard}
               />
             </div>
